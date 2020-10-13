@@ -6,7 +6,7 @@
 ## App 1: Nextdoor 
 
 URL: https://nextdoor.com/
-Summary --> Nextdoor aims to be the ultimate hub for all things about your neighborhood, including but not limited to building trusted connections, exchanging local helpful information, and joining your neighborhood network. 
+Summary : Nextdoor aims to be the ultimate hub for all things about your neighborhood, including but not limited to building trusted connections, exchanging local helpful information, and joining your neighborhood network. 
 
 #### Overall evaluation: 
       --> I believe Nextdoor helps solve a very crucial pain point, especially in a world where it seems we are seemingly becoming more disinterested in our neighbors. It's ambitious attempt to be the be all end all for all things neighborhood was effective in getting 1) lots of users and 2) lots of content being pusehd by those users but I believe that its overall disorganized information architecture and design dampens that delightful experience of interacting with your neighbors digitally becaues it's too cluttered and messy. 
