@@ -72,4 +72,69 @@ URL: https://nextdoor.com/
 
 <p> <em> Solution: </em> Eliminate errors before they begin by working on all the other severity levels.  </p>
   
-  
+## App 2: Meetup 
+
+![Photo by on Google Images](https://i0.wp.com/blog.nextdoor.com/wp-content/uploads/2013/02/Nextdoor_demo_newsfeed.jpg?fit=810%2C932&ssl=1)
+
+URL: https://www.meetup.com/home/
+
+<p> <strong>Summary</strong> : Nextdoor aims to organize online groups that host events for people with similar interests. </p>
+
+#### Overall evaluation: 
+ <p> I believe Meetup is very useful in connecting local communities together. Its web interface is very clean and easy to use. However, it doesn't seem to build individualized repoirt with Meetup Members but rather very event focused and might lose its main goal from there. </p>
+      
+      
+### Heuristic Evaluation
+
+#### 1. Visbility of System Status - Severity Level: 3
+
+<p> While Meetup is very good at promoting and hosting information about events, they lack real time progress reports of events for users. The only thing they can track for general users is the number of people RSVPed to attend. However, as a user I would be interested in knowing the countdown to events, past events metrics, and more (similar to eventbrite and Facebook events). Since this is an entirely event based website, this severity level impacts users heavily. </p>
+
+<p> <em> Solution: </em> Introduce more metrics, especially for events you've RSVPEd to.   </p>
+
+#### 2. Match Between System and Real World - Severity Level: OK
+
+<p> Standard work with icons, processing flow (for messaging, creating an event, creating a group, etc. Nothing to confuse or obstruct the user flow. </p>
+
+#### 3. User Control and Freedom - Severity Level: OK
+
+<p> Clear back and exit and even cancel payment method buttons for users to control the site to their goal. Overall, this site is okay in terms of building user trust. </p>
+
+#### 4. Consistency and Standards - Severity Level: 3
+
+<p> While the design and interface of the website is clean, meetup does not offer any customized structure to event feeds. As a semi-social media site, Meetup is falling behind from other platforms that customize event recommendations rather just posting most recent events posted. </p>
+
+<p> <em> Solution: </em> Customized recommendation algorithm based on past events attended/interested in. </p> 
+
+#### 5. Error Prevention - Severity Level: 3
+
+<p> Had to cycle through the various options for signing up (Google, Email, Facebook) because none of the options were working. There was no error button to contact for help. Horrible error</p>
+
+<p> <em> Solution: </em> Offer check ins to severe errors, especially for user acquisiton purposes.  </p>
+      
+ #### 6. Recognition rather than Recall - Severity Level: 2
+
+<p> Again, offers no recommendation algorithm to present users with upon using the site, which forces the user to either manually look up something of interest or scroll through a bottomless feed until they find something. For an entirely event based platform, this would help with retention and engagement severely instead of meetup being a one stop shop for a specific event!   </p>
+
+<p> <em> Solution: </em> Recommendation algorithm! </p>
+
+#### 7. Flexiblity and Efficiency of Use - Severity Level: OK
+
+<p> Overall, very minmalist and clean. Just has limited options so less efficiency but no trouble to find a specific function/button if you're looking for it.  </p>
+
+#### 8. Aesthetic and Minimalist Design - Severity Level: OK
+
+<p> Very clean and unobtrusive to overall user function. Lots of white space.  </p>
+
+
+#### 9. Help Users recognize, diagnose, and recover from errors - Severity Level: 3
+
+<p> Offers no contact us/what went wrong options when presented with an error, just never loads. Such as when a user signs up and fails to get past the loading page to onboard Facebook logindata,etc. As well as if an event or group fails to be posted. Have to manually find help or contact page in settings.  </p>
+
+<p> <em> Solution: </em> Error check ins with pop ups (most popular or more reasonable explanation) as well as a pathway to help instilled. </p>
+
+#### 10. Help Users recognize, diagnose, and recover from errors - Severity Level: 1
+
+<p> While there is a lack of immediate direction to the help page if there is a real time error, the help page itself is very well organized and offers easy top level processing with the most popular help questions being grouped first into 1)category of question 2)specific page of that category for the question to 4) most specific categories.   </p>
+
+<p> <em> Solution: </em> Allow error check ins with pop ups for real time errors that direct to a very efficent and useful help page!  </p>
