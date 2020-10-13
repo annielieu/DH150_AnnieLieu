@@ -1,5 +1,5 @@
 # Assignment 1: Heuristic Evaluaton 
-
+##Potential Project Name: TalkLocal
 
 ### My name is Annie Lieu and this is my assignment for DH 150 with Professor Sookyung. For this assignment I decided to evaluate competitors based on websites/apps that help you get to know your neighborhood, especially for middle aged women. This is because I feel middle aged women that move to new cities might have a hard time adapting (thinking concerns about safety, population density, etc). I feel like designing a UX project surrounding this end goal and function for middle aged women would help solve a lot of pain points! 
 
