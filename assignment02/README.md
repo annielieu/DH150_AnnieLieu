@@ -11,6 +11,18 @@
 
 ### Setting
 
-I used the <strong> Zoom application</strong> software to record both the participant's facial expression and them using the product for tasks through the screensharing feature. 
+I used the <strong> Zoom application</strong> software to record both the participant's facial expression and them using the product for tasks through the screensharing feature. The test was conducted in a portable minimalist lab, such that we conducted the test in both ends in a quiet room by ourselves. The devices on both end were <strong> MacBook Pro c. 2017 </strong>. 
+
+### Overall Process of the UT
+
+- Introduction
+- Informed Consent
+- Background Questions
+- Pre-Test Questions
+- Task Scenarios
+- Post-Test Questionnaire
+- System Usability Scale (SUS)
+- Product Satisfaction Card
+- Demographics
 
 
