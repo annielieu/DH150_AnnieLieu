@@ -35,8 +35,8 @@ I used the <strong> Zoom application</strong> software to record both the partic
 
 ## Links 
 
-<strong> Online Survey[here](https://forms.gle/mzHu1fuhjH2K6Pkq8) </strong> : https://forms.gle/mzHu1fuhjH2K6Pkq8 
-<strong> Pilot UT Video Test[here](https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing) </strong> : https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing
+<p> [Online Survey](https://forms.gle/mzHu1fuhjH2K6Pkq8) </p>
+<p> [Pilot Video Test](https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing) </p>
 
 ## 
 
