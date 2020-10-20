@@ -28,7 +28,7 @@ I used the <strong> Zoom application</strong> software to record both the partic
 ## Heuristics Being Tested 
 
 | Heuristic Being Tested | Usability Being Tested | Task Scenario |
-| --------------- | --------------- | --------------- |
+| ---------------------- | ------------------------ | ---------------------- |
 |  Error Prevention Scenario | Given the robust variety of categories and options, it's difficult for users (especially novice users) to figure out where to post/go for certain tasks (such as finding recommendations) and no step in place to prevent errors of going to the wrong section | Search the site for sushi recommendations |
 | Flexibility and Efficiency of Use | The structure and information of the site can be overwhelming with no clear structure and this can slow down task use severely, lowering effiency and flexibility | Find information about a missing dog on NextDoor |
 | Recognition Rather than Recall | There is no algoirthm or feature in place to help remember past searches, past posts read, favorited bookmarks, etc which forces user to recall everything rather than recall | Find previous sushi restaurant based on past search |
@@ -36,7 +36,15 @@ I used the <strong> Zoom application</strong> software to record both the partic
 ## Links 
 
 - [Online Survey](https://forms.gle/mzHu1fuhjH2K6Pkq8) 
-- [Pilot Test](https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing)
+- [Pilot UT Test Video](https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing)
 
-## 
+## Reflection
+
+<p> Overall, the UT process went smoothly. There were no internet loss or interruptions during the entire 35 minutes. I realized through the process that my participant was familiar with UT testing because she was very vocal throughout the process, even unprompted (later discovered she is a regular usability beta tester for popular app, Costar). I believe that next time, especially for the target audience which is middle aged women who are usually less technology inclined, I can prompt the users with more questionsa and guidance. In addition, what I can do better next time is get someone closer to the target demographic. </p> 
+
+<p> During the UT, there were some minor hiccups with user understanding of the questions/tasks. I could improve this by making the form clearer and changing soem structures. For instance, for the product satisfaction card (and something I also struggled with when I first encountered this google form) is that she felt that she had to pick one from every row because of standardized forms dictating it this way. Finding five randomly from ALL rows affected her thinking a little, and we needed more time than her usual response rate to find the fifth product card. In addition, I believe my tasks were unclear (not in terms of direction, but in terms of usability). For instance, I personally believed that a user looking up sushi recommendations on the search bar was routine and something I would personally do, but the participant mentioned "this isn't something I would do." I believe to be a better UX Researcher and Moderator overall, I should cross reference my task sceanrios as well to make sure it's both clear to the participant in terms of directions and realistic usability. <p> 
+  
+<p> Overall, to improve this UT for further sessions, I would restructure ambiguous tasks such as the product satisfaction card and the tasks scenarios instead. I will also try to be a more unbiased, but encouraging moderator to more quiet, less vocal participants. </p> 
+
+
 
