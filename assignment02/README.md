@@ -23,13 +23,20 @@ I used the <strong> Zoom application</strong> software to record both the partic
 - Post-Test Questionnaire
 - System Usability Scale (SUS)
 - Product Satisfaction Card
-- Demographics
+- Demographics (Stop Recording Before This and thank participant for their time)
 
 ## Heuristics Being Tested 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| Heuristic Being Tested | Usability Being Tested | Task Scenario |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+|  Error Prevention Scenario | Given the robust variety of categories and options, it's difficult for users (especially novice users) to figure out where to post/go for certain tasks (such as finding recommendations) and no step in place to prevent errors of going to the wrong section | Search the site for sushi recommendations |
+| Flexibility and Efficiency of Use | The structure and information of the site can be overwhelming with no clear structure and this can slow down task use severely, lowering effiency and flexibility | Find information about a missing dog on NextDoor |
+| Recognition Rather than Recall | There is no algoirthm or feature in place to help remember past searches, past posts read, favorited bookmarks, etc which forces user to recall everything rather than recall | Find previous sushi restaurant based on past search |
+
+## Links 
+
+<strong> Online Survey[here](https://forms.gle/mzHu1fuhjH2K6Pkq8) </strong> : https://forms.gle/mzHu1fuhjH2K6Pkq8 
+<strong> Pilot UT Video Test[here](https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing) </strong> : https://drive.google.com/file/d/1o8pBlr_st8xHfgiWtoROSj-_CV57Sz21/view?usp=sharing
+
+## 
 
