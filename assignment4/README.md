@@ -3,15 +3,15 @@
 #### by Annie Lieu // Digital Humanities 150 at UCLA, Fall 2020 // Dr. Sookyung Cho // 11.02.2020
 
 ## The Main Design Challenge
-✅ ### What is the main activity your project would support the users in accomplishing?
+### What is the main activity your project would support the users in accomplishing?
 
-<p> This project would support users in being able to get to know their neighborhood better, as well as find and connect with trusted people nearby, more easily. This will hopefully serve to make the community of middle aged womencommunity, whether mums or single ladies, in metropolitan cities happier and more excited to move to new places safely. </p>
+--> <p> This project would support users in being able to get to know their neighborhood better, as well as find and connect with trusted people nearby, more easily. This will hopefully serve to make the community of middle aged womencommunity, whether mums or single ladies, in metropolitan cities happier and more excited to move to new places safely. </p>
 
-✅ ### What is the basic need involved for that activity?
+### What is the basic need involved for that activity?
 
 This activity fulfills the user’s basic need for safety and belongingness because they feel that they can trust people in their neighborhood/city better (saely because it's verified) as well as add to their network of potential friends and activities. They feel that they are not having a difficult moving or living in the city and that they are not alone; they they belong. 
 
-✅ ### What is/are the traditional/current solution(s) to satisfy the needs?
+### What is/are the traditional/current solution(s) to satisfy the needs?
 
 Current solutions to satisfy this need for knowing where to park include other applications, which are popular, but from personal observation, do not seem to be very commonly used among my target demographic. For large events or specific venues, there is usually information provided on websites for associated parking. Additionally, people often search for parking in the moment, and they also might look up “parking nearby” when using navigational tools like Google Maps or Apple Maps.
 
