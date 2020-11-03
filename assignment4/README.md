@@ -39,7 +39,7 @@
 
 ## Step 3: Pick observation method(s)
 
-I conducted participatory observation research with a friend who fits my target demographic details. Please find the materials used in the next section.
+I conducted participatory observation research with a friend who fits my target activity details. Please find the materials used in the next section.
 
 ### Participatory Research Materials
 #### 1. Contextual Inquiry Guide
