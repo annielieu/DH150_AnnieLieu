@@ -72,3 +72,5 @@ Overall, I found this Contextual Inquiry quite difficult. It's very hard to gues
 
 However, even though this project was quite difficult, I enjoyed the process of interacting and understanding the user a little better without breathing over their neck over a formal script/tasking. And understanding these user personas, what really motivates them, was eye opening. It also made me realize that there are truly different flavors for users because I believe my user is more of a community lurker, versus poster. 
 
+Now that I have a better idea of what not to do, I would try to guide my participant more so they don't have to constantly use filler words or ask me to repeat a question! 
+
