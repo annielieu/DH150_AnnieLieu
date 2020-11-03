@@ -1,17 +1,17 @@
 # DH150 Assignment 4: Users in Context
 
-by Tasia Mochernak // Digital Humanities 150 at UCLA, Winter 2020 // Dr. Sookie Cho // 02.04.2020
-Introductory Steps
-✅ Step 1: Specify the main design challenge
-What is the main activity your project would support the users in accomplishing?
+#### by Annie Lieu // Digital Humanities 150 at UCLA, Fall 2020 // Dr. Sookyung Cho // 11.02.2020
 
-This project will support users in being able to pay for parking, as well as find and reserve parking, more easily. This will hopefully serve to make the community of drivers, whether tourists or locals, in Los Angeles happier and more excited to travel to new places.
+## The Main Design Challenge
+✅ ### What is the main activity your project would support the users in accomplishing?
 
-What is the basic need involved for that activity?
+<p> This project would support users in being able to get to know their neighborhood better, as well as find and connect with trusted people nearby, more easily. This will hopefully serve to make the community of middle aged womencommunity, whether mums or single ladies, in metropolitan cities happier and more excited to move to new places safely. </p>
 
-This activity fulfills the user’s basic need for safety because they feel that they are parking in a proper location and they can find out additional information about this location pertaining to safety as well. They feel that they are not having a difficult driving or parking experience.
+✅ ### What is the basic need involved for that activity?
 
-What is/are the traditional/current solution(s) to satisfy the needs?
+This activity fulfills the user’s basic need for safety and belongingness because they feel that they can trust people in their neighborhood/city better (saely because it's verified) as well as add to their network of potential friends and activities. They feel that they are not having a difficult moving or living in the city and that they are not alone; they they belong. 
+
+✅ ### What is/are the traditional/current solution(s) to satisfy the needs?
 
 Current solutions to satisfy this need for knowing where to park include other applications, which are popular, but from personal observation, do not seem to be very commonly used among my target demographic. For large events or specific venues, there is usually information provided on websites for associated parking. Additionally, people often search for parking in the moment, and they also might look up “parking nearby” when using navigational tools like Google Maps or Apple Maps.
 
