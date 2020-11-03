@@ -44,27 +44,31 @@ I conducted participatory observation research with a friend who fits my target 
 ### Participatory Research Materials
 #### 1. Contextual Inquiry Guide
 
-> Please find my script for this interview here, with goals and and contextual questions.
+> Please find my script for this interview [here](https://docs.google.com/document/d/17PUSJ-OuLa00a2k_DM0KpAxYRcPQlvSIZFmjjBNAem4/edit?usp=sharing), with goals and and contextual questions.
 
 #### 2. User Data
 
-> Please find the recording of the interview here.
+> Please find the recording of the interview [here](https://drive.google.com/file/d/1L-iYgi8VFfOCe1kIGaL90sWaQ1ems041/view?usp=sharing).
 
-> The transcription of the interview can be found here.
+> The transcription of the interview can be found [here](https://docs.google.com/document/d/1v1WMfx0VVxJOfw48NmH5iyCuUv0Td5EIxTUPTmTVyL0/edit?usp=sharing).
 
 ### Interview Key Insights
-1️⃣ How the user chooses to plan their parking ahead of time (3:04)
+1️⃣ Hardest part of staying updated and connected with the community is a lack of a consolidated source (17:05)
+> ...there's not a consolidated place for everything. Like for example sometimes I find stuff out faster than my family and have to tell them cause like unless you have a diversified outlet of information, then it's hard to stay updated. 
 
+2️⃣ The user's suggestions for a "better" product than current solution (16:09)
+> Actually yeah- like if you could like tag it and filter ; that would be cool; like if you're in a sad mood or if you’re like in a music mood.
 
-2️⃣ The user's preferences on paid parking (5:03)
+3️⃣ What the user dislikes about their online community hub source currently (Facebook neighborhood group) (14:19)
 
-.
+> Uh i don't check this one that much but uhh yeah see it’s only like bad news which like is ; it’s supposed to be the news and music but like it’s overwhelmingly bad news which isn’t a bad thing; but uh ; if you notice there's this one admin who posts a lot so he's like the reporter and we just all like take it so if possible i’d like it so that like everyone participates...
 
-3️⃣ What the user dislikes about the way they look for parking currently (6:13)
-
-
-4️⃣ The user's ranking of the importance of parking (on a scale of 1-10) as a component of an entire trip (17:40)
-
+4️⃣ User preference for community platforms (17:40)
+> All depends like what I'm looking for- Uhhhh-  like - Facebook is more local or it’s like more specific they have more Facebook events- it's like more crime related - yeah- while the community subreddits in my hometown are like more political or like uh public event related and then uh the Instagram ones are more for like the overall culture. 
 
 ### Reflection
+
+Overall, I found this Contextual Inquiry quite difficult. It's very hard to guesstimate what the user would actually want to do with your product or task (and I had a hard time with this as well for my Usability Test), so it was difficult to create a vague but assuming direction for my script. When I actually got to the interview part, it turned even weirder because I found that both my participant and I used a lot of unneccesary filler words that were damning enough to be distracting (uhh and like, for instance). This, of course, can be attributed to my restrictive script. 
+
+However, even though this project was quite difficult, I enjoyed the process of interacting and understanding the user a little better without breathing over their neck over a formal script/tasking. And understanding these user personas, what really motivates them, was eye opening. It also made me realize that there are truly different flavors for users because I believe my user is more of a community lurker, versus poster. 
 
