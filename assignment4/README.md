@@ -13,26 +13,27 @@
 
 #### What is/are the traditional/current solution(s) to satisfy the needs?
 
-> Current solutions to satisfy this need for knowing where to park include other applications, which are popular, but from personal observation, do not seem to be very commonly used among my target demographic. For large events or specific venues, there is usually information provided on websites for associated parking. Additionally, people often search for parking in the moment, and they also might look up “parking nearby” when using navigational tools like Google Maps or Apple Maps.
+> Current technical solutions to satisfy this need for getting to know your neighborhood/city include other applications with adjacent websites, which are popular, but from personal observation, seem to confuse and muddle novel users because they do not effectively design for large user hubs (which is what an application built to learning and discovering your city requires). Older, more traditional solutions rely on local users finding solo papers in coffee shops/etc adveritsing a local club/org or from a personal friend network that could connect you to others they know in the city. 
 
-What is/are the limitation(s) that possibly would be improved with (digital) technology?
+#### What is/are the limitation(s) that possibly would be improved with (digital) technology?
 
-Certain limitations for traveling and parking include not knowing availability ahead of time and as a result, spending a lot of time looking for parking or not heading out to a destination at all. Added functionality to the ParkMobile app could definitely help users discover places that they feel comfortable visiting due to positive parking situations and ensure that they become repeat visitors.
+> Certain limitations for getting to know your neighborhood is the increasing danger of meeting strangers without prior vetting for safety. This could be improved by vetting every sign up user for a real valid mailing address, so a user can trust anyone registered in this neighborhood forum is an actual neighbor. That greatly decreases the chance of stranger danger. Other limitations lending to traditional views of getting to know your neighborhood include lack of user awareness. before, these orgs and local clubs relied on word of mouth, but because of an increase in contactless consumption, people are spending less and less time reading signs posted on coffee shops, etc and more and more of this form of marketing is being missed. Having a one stop online (semi-permanent] hub where all this information can be posted and easily found by those in the community would greatly increase membership and attendance to these events/knowing. 
 
-✅ Step 2: Identify target users
-What are the characteristics of users? (ex. demographics, preference, expertise)
+## Step 2: Identify target users
 
-Demographic: people of a legal driving age, own a car, in Los Angeles, likely not tourists, more likely to be current college students or recent grads
+#### What are the characteristics of users? (ex. demographics, preference, expertise)
 
-Preferences: users have the desire and ability to drive to places and thus, need a parking solution to assist them
+> *Demographic: middle aged women that live in a larger metropolitan city; mum or single or taken ladies; more likely to be those that recently moved/ are still unaccustomed to their location
 
-Expertise: users do not need any particular level of expertise to use this application
+> *Preferences: users have the desire to connect with new people and expand their network (for friendship, acquaintanceship, or activities focused) and need a trustworthy online application to assist them 
 
-Where would the users do that activity?
+> *Expertise: users do not need any particular level of expertise to use this application
+
+#### Where would the users do this activity?
 
 There are two main activities that can be accomplished using the ParkMobile app — paying for parking on the spot and reserving parking ahead of time at a specific venue. Users would pay for parking on the spot directly in parking lots, while reserving parking ahead of time can be accomplished remotely by users from wherever they choose to do so. The user interviewed in this contextual inquiry participated in both tasks, but with more emphasis on the second one. If users were doing the simple “paying on the spot” activity but without using ParkMobile, they would still be doing this activity in a parking lot, and similarly, could book parking ahead of time from the place of their choosing.
 
-What would the users do to complete that activity?
+#### What would the users do to complete that activity?
 
 To pay for parking on the spot, users would either pay a parking attendant, use an automated ticket kiosk, or use a mobile app. To reserve parking in advance, users would likely research the best parking options on the Internet before making an online reservation or calling in.
 
