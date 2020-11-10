@@ -20,9 +20,13 @@ Essentially, UX storytelling provides insight into potential users, allows for a
 
 ![Group 1](https://user-images.githubusercontent.com/49845457/98616376-89b79e00-22b1-11eb-87a8-b4b3911fc36b.png)
 
+<img width="514" alt="Screen Shot 2020-11-10 at 2 42 50 PM" src="https://user-images.githubusercontent.com/49845457/98742474-61887780-2363-11eb-95b4-a5c470b477d5.png">
+
 2. Jisoo Kim 
 
 ![Group 2](https://user-images.githubusercontent.com/49845457/98616392-93d99c80-22b1-11eb-90a1-57a37f2a1092.png)
+
+<img width="373" alt="Screen Shot 2020-11-10 at 2 44 45 PM" src="https://user-images.githubusercontent.com/49845457/98742468-5fbeb400-2363-11eb-8a6c-7cf4c68ed08b.png">
 
 ## Scenerios and Journey Maps
 
