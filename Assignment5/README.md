@@ -7,27 +7,22 @@ Essentially, UX storytelling provides insight into potential users, allows for a
 
 ## Proposed Design Features
 
-### 1. Filters - make filters collapsable by category so all different filter choices are visible on one screen and can be adjusted accordingly for general feedback in realtime
+### 1. Filters 
+      <p> make filters collapsable by category so all different filter choices are visible on one screen and can be adjusted accordingly for general feedback in realtime </p>
 
-### 2. Field Trip Category - pre set events by group members or those of the community on homescreen; you can request to join to attend the event; eases the process of combing through different groups and categories for event postings 
+### 2. Field Trip Category 
+      <p> pre set events by group members or those of the community on homescreen; you can request to join to attend the event; eases the process of combing through different groups and categories for event postings </p>
 
 
 Persona and Empathy Maps
 
 1. Mary Jane
 
-
-
-
-
-
-
-
-
-
-
+![Group 1](https://user-images.githubusercontent.com/49845457/98616376-89b79e00-22b1-11eb-87a8-b4b3911fc36b.png)
 
 2. Jisoo Kim 
+
+![Group 2](https://user-images.githubusercontent.com/49845457/98616392-93d99c80-22b1-11eb-90a1-57a37f2a1092.png)
 
 Scenerios and Journey Maps
 Austin's Scenario
