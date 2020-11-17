@@ -1,6 +1,5 @@
 ## DH150 Assignment 6: Low Fidelity Prototype
 by Annie Lieu // Digital Humanities 150 at UCLA, Fall 2020 // Dr. Sookie Cho
-###  Overview
 
 ## Mission: 
 This low-fidelity prototype (Figma wireframe) serves to validate whether new proposed features are helpful and usable by the target user demographic before launching into a high fidelity prototype. 
