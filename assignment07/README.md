@@ -9,3 +9,4 @@ test. This high-fidelity prototype is transformed from the low-fidelity hand-dra
 ### Prototype Design 
 
 #### Representative Screen Designs 
+<img width="887" alt="Screen Shot 2020-11-24 at 1 28 22 PM" src="https://user-images.githubusercontent.com/49845457/100153417-efcb2600-2e58-11eb-9fcb-5988f19b2d7c.png">
