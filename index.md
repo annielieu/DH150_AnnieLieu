@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>CityPost: DH 150 Assignment 9</title>
@@ -59,16 +59,36 @@
 		<h5> Mary Jane's Journey Map </h5>
 		<img src="jisookimmap.png"  alt="Meetup App Screenshots"> 
 
-<h3> The Wireframe & Lo Fidelity Prototype</h3>
+<h3> The Wireframe & Lo-Fidelity Prototype</h3>
 
 <p> I soon began on initial wireframes for my low-fidelity prototype. I sketched out a couple main screens for my two task features. 1)Filter categorization. 2) Pre-set Field Trips feature. These wireframes were bare bones of what this platform should look like and provided a consistent interface structure for the rest of my low-fidelity prototype.
 
-Detailed process and findings for wireframe can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment06">here</a> </p>
+The rest of the low-fidelity prototype involved introducing a wireflow between screens that was then reviewed by participants.
 
-<h3> Low-fidelity Prototype </h3>
+Detailed process and findings for wireframe can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment06">here.</a> </p>
+
+<h3> Hi-Fidelity Prototype </h3>
+
+<img src="wireflow4.png"  alt="Hi Fidelity Prototype"> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIANApv1Ld602PXJ9RVdt75%2Fneighborhood-app%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+<p> With a better sense of the interaction flow of my prototype, I proceeded to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components on a standard mobile frame. I modelled standard social media practices with posts and profiles, but added key features to help in three important tasks. 
+
+The hi-fidelity prototype also went through several revisions after congitive walkthroughs from my professor and other participants. 
+
+For instance, further color contrasting testing was needed to create more accessible text content (light grey on white --> black on white for small captioning). Also needed to add more elements to help show buttons as clickable rather than dull uinteractive text. 
+
+The high-fidelity prototype supports several tasks:
+
+1. Use filters to customize feed
+2. Make a new post 
+3. Use Field Trip Category to sign up for pre-set naerby events 
+
+<h3> Hi-Fidelity Wireflow </h3>
+<img src="wireflow3.png"  alt="Hi Fidelity WireFlow "> 
 
 
-
+<p>Click <a href="https://www.figma.com/file/IANApv1Ld602PXJ9RVdt75/neighborhood-app?node-id=0%3A1">here</a> to access the interactive prototype. You can read more about the high-fidelity prototyping process <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment07">here.</a></p>
 
 </body>
 </html>
