@@ -102,8 +102,8 @@ Detailed process and findings for wireframe can be found <a href="https://github
 <h5> 3. Decisions, Decisions </h5> 
 </p> As a designer, it is important that every element of a design made reflects the value that was researched behind that decision to implement it. Specifically, because I came onto this project with a notion to "make a more simple, easier app" that wasn't "cluttered" like its competitors, I made several design choices that can leave users puzzled. I had several reviewers ask why the "filters" tab didn't take the whole screen real estate, or why one couldn't see all teh filters/tags applied on the general feedback page. The answer was for the sake of keeping things cluttered and minimal screens needed as possible (a pop up filter screen that you can scroll doesn't make the user feel like there's several screens before you get to an end product). To the novel user, who didn't know I designed with that in mind, their cognitive model felt like something was missing. I failed to show my intention and why it was useful, and that is a key element to a good design. </p>
 
-<h5> Iterative Legibility </h5>
+<h5> 4. Iterative Legibility </h5>
 <p> All my lo fidelity processing involved poor and bare bone wireframes. To my participants I asked to review it, they were left more puzzled and confused by the handwriting than the wireflow itself. </p>
 
-<h5> Internal Consistency </h5>
+<h5> 5. Internal Consistency </h5>
 <p> While Figma helped ease and create a lot of consistency between screens, I found that I still lacked that keen eye and constant review to fix internal consistency errors before user review. As such, I found myself tweaking the hi - fidelity prototype several times to attempt to finish off with a professional error. For instance, I attempted to make buttons more clickable by adding an arrow, as well as making sure buttons and titles were centered. 
