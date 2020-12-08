@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 	<title>CityPost: DH 150 Assignment 9</title>
@@ -76,13 +76,13 @@ Detailed process and findings for wireframe can be found <a href="https://github
 
 The hi-fidelity prototype also went through several revisions after congitive walkthroughs from my professor and other participants. 
 
-For instance, further color contrasting testing was needed to create more accessible text content (light grey on white --> black on white for small captioning). Also needed to add more elements to help show buttons as clickable rather than dull uinteractive text. 
+For instance, further color contrasting testing was needed to create more accessible text content (light grey on white --> black on white for small captioning). Also needed to add more elements to help show buttons as clickable rather than dull uninteractive text. 
 
 The high-fidelity prototype supports several tasks:
 
 1. Use filters to customize feed
 2. Make a new post 
-3. Use Field Trip Category to sign up for pre-set naerby events 
+3. Use Field Trip Category to sign up for pre-set nearby events 
 
 <h3> Hi-Fidelity Wireflow </h3>
 <img src="wireflow3.png"  alt="Hi Fidelity WireFlow "> 
@@ -90,5 +90,20 @@ The high-fidelity prototype supports several tasks:
 
 <p>Click <a href="https://www.figma.com/file/IANApv1Ld602PXJ9RVdt75/neighborhood-app?node-id=0%3A1">here</a> to access the interactive prototype. You can read more about the high-fidelity prototyping process <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment07">here.</a></p>
 
-</body>
-</html>
+<h3> Conclusion </h3>
+
+<p> There were several crucial elements I learned to the UX design process with CityPost this quarter.
+<h5> 1. The Importance Of Diverse Interview Processes</h5>
+<p> I learned that understanding user experience means trying to have the most broad spectrum of possible users to research and interview. This is because oftentimes relying solely on the designer or a couple of similar interviews does not allow one to see edge cases or missing user flows for users from other demographics/groups. This falls into designer and hindsight bias. The best way to counterract this is a more exhaustive list of research and user participants to test on to createa. more fitted design. I saw this in particular through my contextual inquiry interviews, as the participant questioned the way I was asking or telling them to complete a task.</p>
+
+<h5>2. Designing for Accessibility </h5>
+<p> In a world that is growing increasingly digital, it is imperative that designers build accessible user experiences that allow for everyone to participate. As a designer, I learned how to use color contrast testing sites and plug ins to make sure that my designs passed the contrast ratio of 4.5:1 for them to be distinguished clearly for all users. I learned that this pertained to all aspects of the design, as a cognitive walkthrough showed me, not just the main elements. For instance, I had to tweak my hi-fidelity prototype to have black text for the "minutes posted" to fix a color contrast error. </p>
+
+<h5> 3. Decisions, Decisions </h5> 
+</p> As a designer, it is important that every element of a design made reflects the value that was researched behind that decision to implement it. Specifically, because I came onto this project with a notion to "make a more simple, easier app" that wasn't "cluttered" like its competitors, I made several design choices that can leave users puzzled. I had several reviewers ask why the "filters" tab didn't take the whole screen real estate, or why one couldn't see all teh filters/tags applied on the general feedback page. The answer was for the sake of keeping things cluttered and minimal screens needed as possible (a pop up filter screen that you can scroll doesn't make the user feel like there's several screens before you get to an end product). To the novel user, who didn't know I designed with that in mind, their cognitive model felt like something was missing. I failed to show my intention and why it was useful, and that is a key element to a good design. </p>
+
+<h5> Iterative Legibility </h5>
+<p> All my lo fidelity processing involved poor and bare bone wireframes. To my participants I asked to review it, they were left more puzzled and confused by the handwriting than the wireflow itself. </p>
+
+<h5> Internal Consistency </h5>
+<p> While Figma helped ease and create a lot of consistency between screens, I found that I still lacked that keen eye and constant review to fix internal consistency errors before user review. As such, I found myself tweaking the hi - fidelity prototype several times to attempt to finish off with a professional error. For instance, I attempted to make buttons more clickable by adding an arrow, as well as making sure buttons and titles were centered. 
