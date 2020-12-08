@@ -44,7 +44,7 @@
 	</p>
 
 	<p>
-		As a successful product manager and mom, our first user Mary Jane starts her working day with checking her emails as she cooks up breakfast for her two middle school aged kids and makes sure her high school son has everything ready before he leaves. Between juggling her mom life and her career priorities, Mary wants to find a simple way to meet new friends and practice some selfcare in her city that won't need her to onboard another complex system to keep track up. With the new <em> filter categorization feature </em> that had been lackign in previous platforms, Jane is able to successfully find events nearby with minimal tiem and effort and build genuine connections faster. </p>
+		As a successful product manager and mom, our first user Mary Jane starts her working day with checking her emails as she cooks up breakfast for her two middle school aged kids and makes sure her high school son has everything ready before he leaves. Between juggling her mom life and her career priorities, Mary wants to find a simple way to meet new friends and practice some selfcare in her city that won't need her to onboard another complex system to keep track up. With the new <em> Field Trip feature </em> that had been lacking in previous platforms, Jane is able to successfully find events nearby with minimal time and effort and build genuine connections faster. </p>
 
 		<img src="maryjane.png"  alt="Meetup App Screenshots"> 
 
@@ -52,8 +52,20 @@
 		<img src="maryjanemap.png"  alt="Meetup App Screenshots"> 
 
 		<p> 
+			Our second user, Jisoo Kim, is a young mother that makes cooking and food content on creator platforms such as Youtube and Tiktok, and has recently acquired a high stable income from it. After moving to a new city, Jisoo wants to onboard as much information as she can quickly so she can get to know her neighbors and integrate into the community. To become a "local". With the new <em> filter categorization </em> she can filter out most relevant groups and posts to her to acquit to the community faster, rather than navigate through miles of irrelvant postings. </p>
 
+			<img src="jisookim.png"  alt="Meetup App Screenshots"> 
 
+		<h5> Mary Jane's Journey Map </h5>
+		<img src="jisookimmap.png"  alt="Meetup App Screenshots"> 
+
+<h3> The Wireframe & Lo Fidelity Prototype</h3>
+
+<p> I soon began on initial wireframes for my low-fidelity prototype. I sketched out a couple main screens for my two task features. 1)Filter categorization. 2) Pre-set Field Trips feature. These wireframes were bare bones of what this platform should look like and provided a consistent interface structure for the rest of my low-fidelity prototype.
+
+Detailed process and findings for wireframe can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment06">here</a> </p>
+
+<h3> Low-fidelity Prototype </h3>
 
 
 
