@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>CityPost: DH 150 Assignment 9</title>
@@ -46,7 +46,7 @@
 	<p>
 		As a successful product manager and mom, our first user Mary Jane starts her working day with checking her emails as she cooks up breakfast for her two middle school aged kids and makes sure her high school son has everything ready before he leaves. Between juggling her mom life and her career priorities, Mary wants to find a simple way to meet new friends and practice some selfcare in her city that won't need her to onboard another complex system to keep track up. With the new <em> Field Trip feature </em> that had been lacking in previous platforms, Jane is able to successfully find events nearby with minimal time and effort and build genuine connections faster. </p>
 
-		![Group 1](https://user-images.githubusercontent.com/49845457/98616376-89b79e00-22b1-11eb-87a8-b4b3911fc36b.png)
+		<img src="maryjane.png"  alt="Meetup App Screenshots"> 
 
 		<h5> Mary Jane's Journey Map </h5>
 		<img src="maryjanemap.png"  alt="Meetup App Screenshots"> 
@@ -72,17 +72,17 @@ Detailed process and findings for wireframe can be found <a href="https://github
 <img src="wireflow4.png"  alt="Hi Fidelity Prototype"> 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIANApv1Ld602PXJ9RVdt75%2Fneighborhood-app%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-<p> With a better sense of the interaction flow of my prototype, I proceeded to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components on a standard mobile frame. I modelled standard social media practices with posts and profiles, but added key features to help in three important tasks. 
+<p> With a better sense of the interaction flow of my prototype, I proceeded to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components on a standard mobile frame. I modelled standard social media practices with posts and profiles, but added key features to help in three important tasks. </p>
 
-The hi-fidelity prototype also went through several revisions after congitive walkthroughs from my professor and other participants. 
+<p>The hi-fidelity prototype also went through several revisions after congitive walkthroughs from my professor and other participants. </p>
 
-For instance, further color contrasting testing was needed to create more accessible text content (light grey on white --> black on white for small captioning). Also needed to add more elements to help show buttons as clickable rather than dull uninteractive text. 
+<p> For instance, further color contrasting testing was needed to create more accessible text content (light grey on white --> black on white for small captioning). Also needed to add more elements to help show buttons as clickable rather than dull uninteractive text. </p>
 
-The high-fidelity prototype supports several tasks:
+<p>The high-fidelity prototype supports several tasks:</p>
 
-1. Use filters to customize feed
-2. Make a new post 
-3. Use Field Trip Category to sign up for pre-set nearby events 
+<h5> 1. Use filters to customize feed</h5>
+<h5> 2. Make a new post </h5>
+<h5> 3. Use Field Trip Category to sign up for pre-set nearby events </h5>
 
 <h3> Hi-Fidelity Wireflow </h3>
 <img src="wireflow3.png"  alt="Hi Fidelity WireFlow "> 
