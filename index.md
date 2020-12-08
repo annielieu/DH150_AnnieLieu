@@ -46,7 +46,7 @@
 	<p>
 		As a successful product manager and mom, our first user Mary Jane starts her working day with checking her emails as she cooks up breakfast for her two middle school aged kids and makes sure her high school son has everything ready before he leaves. Between juggling her mom life and her career priorities, Mary wants to find a simple way to meet new friends and practice some selfcare in her city that won't need her to onboard another complex system to keep track up. With the new <em> Field Trip feature </em> that had been lacking in previous platforms, Jane is able to successfully find events nearby with minimal time and effort and build genuine connections faster. </p>
 
-		<img src="maryjane.png"  alt="Meetup App Screenshots"> 
+		<img src="https://user-images.githubusercontent.com/49845457/98616376-89b79e00-22b1-11eb-87a8-b4b3911fc36b.png"  alt="Mary Jane"> 
 
 		<h5> Mary Jane's Journey Map </h5>
 		<img src="maryjanemap.png"  alt="Meetup App Screenshots"> 
