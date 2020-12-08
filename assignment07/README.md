@@ -25,6 +25,13 @@ I first went with a variation of blue, to keep in line with the social media blu
 
 Stuck with standard Figma material design for easier understability and discoverability.
 
+#### Updated hi-fidelity prototype 
+
+https://www.figma.com/file/IANApv1Ld602PXJ9RVdt75/neighborhood-app?node-id=0%3A1
+
+#### Updated screen wireflow
+
+
 #### Impression Test
 
 https://drive.google.com/file/d/1pB1UbrtLPqZ73ay3rQDC2ynrlaCLowJY/view?usp=sharing
