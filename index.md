@@ -15,8 +15,11 @@
 	<p> Middle aged women, in particular, lie at a point of society where meeting strangers online is an extra security concern. I designed with them as a target audience in mind becuase I wanted a platform that was safe (vetted neighbors) as well as very easy to use and onboard due to middle aged women's busy lifestyles. </p>
 
 	<h3> Competitor Analysis and Heuristic Evaluation </h3>
-	<img src="meetup.png" width="300" height="300" alt="Meetup App Screenshots"> <figcaption> Meet Up </figcaption>
-	<img src="neighborhood.png" width="500" height="500" alt="Meetup App Screenshots"> 
+	<h5> Meet Up </h5>
+	<img src="https://user-images.githubusercontent.com/49845457/101553834-4f9df280-396a-11eb-9b16-b43fc1b320f2.png" width="300" height="300" alt="Meetup App Screenshots"> <figcaption> Meet Up </figcaption>
+	<h5> NextDoor </h5>
+	<img src="https://user-images.githubusercontent.com/49845457/101553823-4b71d500-396a-11eb-9847-48efb4115884.PNG" width="500" height="500" alt="Neighborhood Screenshots"> 
+	<img src="https://user-images.githubusercontent.com/49845457/101553826-4c0a6b80-396a-11eb-89e5-1567ed8dc5b8.PNG" width="500" height="500" alt="Neighborhood Screenshots"> 
 	<p>I started this design process by analyzing top comptetitors in the "neighborhood" social media space: <b>NextDoor</b> and <b>Meetup</b>. This included a heuristic evaluation and usability testing with participants and detailed process and findings can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment02">here</a> and  <a href="https://github.com/annielieu/DH150_AnnieLieu/blob/main/README.md">here</a> . 
 
 	In general, participants found that Nextdoor was too cluttered with information, making it <em>frustrating to navigate </em> for certain tasks and information. Specifically, there was a lack of filters, organizational structure, and overstimulation of categories. On the other hand, participants found Meetup <em>underwhelmingingly too simple and generalized </em> to host a broader span of interests/important information to build a community. Specifically, instead of building a general sense of community, Meetup served more as a temporary function to host niche groups' meetups. </p>
@@ -49,27 +52,29 @@
 		<img src="https://user-images.githubusercontent.com/49845457/98616376-89b79e00-22b1-11eb-87a8-b4b3911fc36b.png"  alt="Mary Jane"> 
 
 		<h5> Mary Jane's Journey Map </h5>
-		<img src="maryjanemap.png"  alt="Meetup App Screenshots"> 
+		<img src="https://user-images.githubusercontent.com/49845457/98712742-879a2180-233b-11eb-86be-9987206945d9.png"  alt="Mary Jane Journey"> 
 
 		<p> 
 			Our second user, Jisoo Kim, is a young mother that makes cooking and food content on creator platforms such as Youtube and Tiktok, and has recently acquired a high stable income from it. After moving to a new city, Jisoo wants to onboard as much information as she can quickly so she can get to know her neighbors and integrate into the community. To become a "local". With the new <em> filter categorization </em> she can filter out most relevant groups and posts to her to acquit to the community faster, rather than navigate through miles of irrelvant postings. </p>
 
-			<img src="jisookim.png"  alt="Meetup App Screenshots"> 
+			<img src="https://user-images.githubusercontent.com/49845457/98616392-93d99c80-22b1-11eb-90a1-57a37f2a1092.png"  alt="Jisoo Profile"> 
 
-		<h5> Mary Jane's Journey Map </h5>
-		<img src="jisookimmap.png"  alt="Meetup App Screenshots"> 
+		<h5> Jisoo Journey Map  </h5>
+		<img src="https://user-images.githubusercontent.com/49845457/98712766-8f59c600-233b-11eb-8be8-b135e32b16c5.png"  alt="Meetup App Screenshots"> 
 
 <h3> The Wireframe & Lo-Fidelity Prototype</h3>
+
+<img src="https://user-images.githubusercontent.com/49845457/101553750-21b8ae00-396a-11eb-8c98-86c9d48a6536.png"  alt="Low WireFrame">
 
 <p> I soon began on initial wireframes for my low-fidelity prototype. I sketched out a couple main screens for my two task features. 1)Filter categorization. 2) Pre-set Field Trips feature. These wireframes were bare bones of what this platform should look like and provided a consistent interface structure for the rest of my low-fidelity prototype.
 
 The rest of the low-fidelity prototype involved introducing a wireflow between screens that was then reviewed by participants.
 
-Detailed process and findings for wireframe can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment06">here.</a> </p>
+Detailed process and findings for the wireframe and low fidelity process can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment06">here.</a> </p>
 
 <h3> Hi-Fidelity Prototype </h3>
 
-<img src="wireflow4.png"  alt="Hi Fidelity Prototype"> 
+<img src="https://user-images.githubusercontent.com/49845457/101553740-1ebdbd80-396a-11eb-8e12-17a22be56823.png"  alt="Hi Fidelity Prototype">
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIANApv1Ld602PXJ9RVdt75%2Fneighborhood-app%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 <p> With a better sense of the interaction flow of my prototype, I proceeded to the high-fidelity aspects of my design. Through Figma, I refined and brought my low-fidelity interface to life by adding color, interaction features, dynamic elements, and other graphical interface components on a standard mobile frame. I modelled standard social media practices with posts and profiles, but added key features to help in three important tasks. </p>
@@ -85,7 +90,7 @@ Detailed process and findings for wireframe can be found <a href="https://github
 <h5> 3. Use Field Trip Category to sign up for pre-set nearby events </h5>
 
 <h3> Hi-Fidelity Wireflow </h3>
-<img src="wireflow3.png"  alt="Hi Fidelity WireFlow "> 
+<img src="https://user-images.githubusercontent.com/49845457/101553761-25e4cb80-396a-11eb-989a-c714245616b7.png"  alt="Hi Fidelity WireFlow "> 
 
 
 <p>Click <a href="https://www.figma.com/file/IANApv1Ld602PXJ9RVdt75/neighborhood-app?node-id=0%3A1">here</a> to access the interactive prototype. You can read more about the high-fidelity prototyping process <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment07">here.</a></p>
