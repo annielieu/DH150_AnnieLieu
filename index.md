@@ -18,8 +18,8 @@
 	<h5> Meet Up </h5>
 	<img src="https://user-images.githubusercontent.com/49845457/101553834-4f9df280-396a-11eb-9b16-b43fc1b320f2.png" width="300" height="300" alt="Meetup App Screenshots"> <figcaption> Meet Up </figcaption>
 	<h5> NextDoor </h5>
-	<img src="https://user-images.githubusercontent.com/49845457/101553823-4b71d500-396a-11eb-9847-48efb4115884.PNG" width="500" height="500" alt="Neighborhood Screenshots"> 
-	<img src="https://user-images.githubusercontent.com/49845457/101553826-4c0a6b80-396a-11eb-89e5-1567ed8dc5b8.PNG" width="500" height="500" alt="Neighborhood Screenshots"> 
+	<img src="https://user-images.githubusercontent.com/49845457/101553823-4b71d500-396a-11eb-9847-48efb4115884.PNG"  alt="Neighborhood Screenshots"> 
+	<img src="https://user-images.githubusercontent.com/49845457/101553826-4c0a6b80-396a-11eb-89e5-1567ed8dc5b8.PNG"  alt="Neighborhood Screenshots"> 
 	<p>I started this design process by analyzing top comptetitors in the "neighborhood" social media space: <b>NextDoor</b> and <b>Meetup</b>. This included a heuristic evaluation and usability testing with participants and detailed process and findings can be found <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment02">here</a> and  <a href="https://github.com/annielieu/DH150_AnnieLieu/blob/main/README.md">here</a> . 
 
 	In general, participants found that Nextdoor was too cluttered with information, making it <em>frustrating to navigate </em> for certain tasks and information. Specifically, there was a lack of filters, organizational structure, and overstimulation of categories. On the other hand, participants found Meetup <em>underwhelmingingly too simple and generalized </em> to host a broader span of interests/important information to build a community. Specifically, instead of building a general sense of community, Meetup served more as a temporary function to host niche groups' meetups. </p>
