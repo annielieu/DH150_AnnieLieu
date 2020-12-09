@@ -94,6 +94,8 @@ Detailed process and findings for the wireframe and low fidelity process can be 
 
 
 <p>Click <a href="https://www.figma.com/file/IANApv1Ld602PXJ9RVdt75/neighborhood-app?node-id=0%3A1">here</a> to access the interactive prototype. You can read more about the high-fidelity prototyping process <a href="https://github.com/annielieu/DH150_AnnieLieu/tree/main/assignment07">here.</a></p>
+<h3> Video Pitch <a href="https://drive.google.com/file/d/1dvXYimcddt9_B_5Xi1PGigagyDionyKY/view?usp=sharing">here.</a></h3>
+
 
 <h3> Conclusion </h3>
 
